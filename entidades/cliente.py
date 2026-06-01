@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Módulo da Entidade Cliente
 
 # Define a classe Cliente
@@ -17,7 +16,7 @@ class Cliente:
         return f"Cliente: {self.nome} (CPF: {self.cpf})"
 
     def adicionar_conta(self, nova_conta):
-=======
+
 # Módulo da Entidade Cliente
 
 # Define a classe Cliente
@@ -36,5 +35,4 @@ class Cliente:
         return f"Cliente: {self.nome} (CPF: {self.cpf})"
 
     def adicionar_conta(self, nova_conta):
->>>>>>> 6ce586c146c80863dbd26afe47d2e882204a8e49
         pass
